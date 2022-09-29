@@ -28,4 +28,18 @@ dor, de seu coração, pois muitas vezes, dói bem
 menos um corte no pulso,vendo seu sangue escorrer,
 do que sentir aquele sufoco por dentro, aquela
 falta de ar absurda</p>
-<p>Para
+<p>Para as pessoas é facil chegar em setembro,fazer
+ várias mensagens motivacionais contra depressão 
+ e suicídio, para o resto do ano apenas esquecer
+ tudo.As vezes as pessoas que mais postam essas 
+ mensagens são as que mais julgam ou que mais estão
+ sofrendo.</p>
+ <p>Então procure lembrar todos os dias que tem pessoas 
+ prestes a se tirar a própria vida a cada segundo que 
+ passa, podem ser até mesmo familiares, amigos,
+ vizinhos, ou um conhecido qualquer, tente se preoucupar
+ mais, em vez de ficar julgando alguém pelos seus atos,
+ procure conversar ou até mesmo mandar uma mensagem 
+ pedindo se está tudo bem, certamente valerá muito 
+ mais a pena que ficar apenas julgando.</p> 
+ <img>/tmp/guest-6yccic/Área de Trabalho/meuzapzap14151119022458FB498D3A889F41AC87EB859E9A3F6AC6.jpeg</img>
