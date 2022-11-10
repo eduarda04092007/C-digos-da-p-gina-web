@@ -43,4 +43,4 @@ falta de ar absurda</p>
  procure conversar ou até mesmo mandar uma mensagem 
  pedindo se está tudo bem, certamente valerá muito 
  mais a pena que ficar apenas julgando.</p> 
- <img src:"/tmp/guest-6yccic/Área de Trabalho/meuzapzap14151119022458FB498D3A889F41AC87EB859E9A3F6AC6.jpeg" alt: "pessoa depressiva" title: "Depressão"/>
+ <img src="/tmp/guest-6yccic/Área de Trabalho/meuzapzap14151119022458FB498D3A889F41AC87EB859E9A3F6AC6.jpeg" alt= "pessoa depressiva" title= "Depressão"/>
