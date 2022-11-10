@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>DEPRESSÃO</title>
+<body>
 <p>Depressão não é frescura,como muitos dizem, depressão 
 são medos, traumas, inseguranças, tudo junto, depressão 
 é algo inexplicável, só quem vive ou já viveu sabe o
@@ -42,4 +43,4 @@ falta de ar absurda</p>
  procure conversar ou até mesmo mandar uma mensagem 
  pedindo se está tudo bem, certamente valerá muito 
  mais a pena que ficar apenas julgando.</p> 
- <img>/tmp/guest-6yccic/Área de Trabalho/meuzapzap14151119022458FB498D3A889F41AC87EB859E9A3F6AC6.jpeg</img>
+ <img src:"/tmp/guest-6yccic/Área de Trabalho/meuzapzap14151119022458FB498D3A889F41AC87EB859E9A3F6AC6.jpeg" alt: "pessoa depressiva" title: "Depressão"/>
